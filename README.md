@@ -37,6 +37,6 @@ Used Libraries:
 
 
 ## Circuit
-![](asdadsasd)
-
+![](https://github.com/FurkanTRN/smart_home/blob/master/Circuit/smart_home_devre.png.png)
 ## Blynk App Photo
+![](https://github.com/FurkanTRN/smart_home/blob/master/Blynk%20App.png)
