@@ -1,6 +1,6 @@
 
 ## Smart Home V1.0
-![](https://img.shields.io/badge/NodeMCU%20LoLin-V3-orange)  ![](https://img.shields.io/badge/version-1.0-blue) 
+![](https://img.shields.io/badge/NodeMCU%20LoLin-V3-orange?style=flat&logo=arduino)  ![](https://img.shields.io/badge/version-1.0-blue?style=flat) 
 
 Features:
 
