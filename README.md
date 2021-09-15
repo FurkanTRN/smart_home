@@ -46,6 +46,7 @@ Used Libraries:
 - 1 x KY-026 Flame Sensor
 - 1 x Button
 - 1 x 12v 2A DC Power Supply or 9V Battery
+- Jumper Cables
 
 
 ## Circuit
