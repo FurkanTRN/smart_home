@@ -1,4 +1,14 @@
+
 ## Smart Home V1.0
+Features:
+
+ 1. Fire detect
+ 2. Fire alarm with buzzer , led, notification and email(optional)
+ 3. Room temperature and humidity
+ 4. Remote Fan ON/OFF
+ 5. Remote Light ON/OFF
+ 6. By entering the city name from the phone, it shows temperature and humidity information on the LCD screen.(It is enough to press the button on the circuit once.)
+
 Used Libraries:
 - Arduino_JSON
 - ESP8266HTTPClient
