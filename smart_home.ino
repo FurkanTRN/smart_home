@@ -124,7 +124,7 @@ void tempHum()
 
 void fireAlarm() {
   Flame = digitalRead(flamePin);
-  if (Flame == LOW && bildirim) {
+  if (Flame == LOW && notification) {
     Blynk.notify("Warning Fire Alarm");
     // optional
     Blynk.email("input email", "input message");
