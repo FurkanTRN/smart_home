@@ -139,7 +139,7 @@ void fireAlarm() {
     bildirim = false;
   }
   if (Flame == HIGH) {
-    bildirim = true;
+    notification = true;
   }
 }
 void homeScreen() {
