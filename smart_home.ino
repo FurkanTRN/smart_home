@@ -136,7 +136,7 @@ void fireAlarm() {
       digitalWrite(LED_BUILTIN, LOW);
       delay(300);
     }
-    bildirim = false;
+    notificaton = false;
   }
   if (Flame == HIGH) {
     notification = true;
