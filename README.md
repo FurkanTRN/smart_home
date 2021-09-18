@@ -27,7 +27,7 @@ Used Libraries:
 - Humidity: “Gauge”, V6 pin , 0-100 value, reading rate : 1
 - Fan : “Styled Button”, GP16 pin, 0-1 value, mode: switch
 - Lamp : “Button”, GP15 pin, 0-1 value, mode: switch
-- İnpu City Name : “Text Input”, V4 pin, character limit=15
+- İnput City Name : “Text Input”, V4 pin, character limit=15
 - Notification : "Notification"
 - Mail : "Email"
 
